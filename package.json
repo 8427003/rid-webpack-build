@@ -1,6 +1,6 @@
 {
   "name": "rid-webpack-build",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
       "babel-core": "^6.26.0",
       "babel-jest": "^21.2.0",
       "babel-loader": "^7.1.4",
