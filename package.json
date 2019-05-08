@@ -1,6 +1,6 @@
 {
   "name": "rid-webpack-build",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -39,6 +39,7 @@
     "sass": "^1.14.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
+    "uglifyjs-webpack-plugin": "^2.1.2",
     "url-loader": "^1.1.1",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.1",
