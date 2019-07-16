@@ -9,3 +9,4 @@ compilation-stats.json
 survey-user-fe
 npm-debug.log
 yarn.lock
+.DS_Store
