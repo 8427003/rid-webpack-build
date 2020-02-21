@@ -22,6 +22,7 @@
     "@babel/plugin-transform-exponentiation-operator": "^7.2.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "@coco-build/webpack-dev-server-simple-mock": "^1.0.2",
     "babel-jest": "^24.8.0",
     "babel-loader": "^8.0.2",
     "babel-plugin-import": "^1.9.1",
