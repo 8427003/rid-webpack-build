@@ -9,9 +9,10 @@ function createWebpackConfig(config = {}, name = 'SPAReact') {
     }
 
     switch(name) {
-        case 'SPAReat': return require('./lib/SPAReactConfig');
+        case 'SPAReact': return require('./lib/SPAReactConfig');
         case 'electronReact': return require('./lib/electronReactConfig');
         case 'antAdmin': return require('./lib/antAdminConfig');
+        default: throw Error('can not run here!');
     }
 }
 
