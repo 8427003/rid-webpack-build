@@ -1,6 +1,6 @@
 {
   "name": "@sukbta/webpack-builder",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "@coco-build/webpack-dev-server-simple-mock": "^1.0.2",
-    "@sukbta/ssr-babel-plugin-enhanced-import": "0.0.1",
+    "@loadable/babel-plugin": "^5.12.0",
     "babel-jest": "^24.8.0",
     "babel-loader": "^8.0.2",
     "babel-plugin-import": "^1.9.1",
