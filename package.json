@@ -44,7 +44,7 @@
     "terser-webpack-plugin": "^1.2.3",
     "url-loader": "^1.1.1",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.1",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.9",
     "webpack-dev-server-simple-mock": "^1.0.2",
     "webpack-merge": "^4.1.4"
